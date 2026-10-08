@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Revalisa
 - 😄 14 November 2005
-- 🌱 Universitas Yudharta Pasuruan
-- 📫sitirevalisa14@gmail.com
-
+- 🌱 Universitas Yudharta
 
 <!---
 revalisa/revalisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
